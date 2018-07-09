@@ -1,3 +1,3 @@
 def reverse_each_word(sentence)
-  sentence.array.each do 
+  sentence_array.each do 
 end
